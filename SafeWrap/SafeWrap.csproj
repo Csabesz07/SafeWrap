@@ -4,6 +4,14 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>SafeWrap</PackageId>
+    <Version>8.1.1</Version>
+    <Authors>CsabaSzilagyi</Authors>
+    <Description>A lightweight exception handling library for ASP.NET Core.</Description>
+    <PackageTags>aspnetcore exception-handling middleware</PackageTags>
+    <RepositoryUrl>https://github.com/Csabesz07/SafeWrap</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
