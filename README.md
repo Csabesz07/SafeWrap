@@ -1,4 +1,6 @@
-﻿# SafeWrap
+﻿<img src="./Assets/Images/safe_wrap_logo_transparent.png" alt="Logo" width="150" style="display:block;margin:auto;" />
+
+# SafeWrap
 
 SafeWrap is a lightweight exception handling library for ASP.NET Core applications that provides a clean and consistent way to handle exceptions and convert them to appropriate HTTP responses.
 
